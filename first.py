@@ -22,7 +22,7 @@ def Oturn():
     field [a-1][b-1]= "0"
 
 
-
+ # Hello, my friend dude
 Xturn()
 displayField()
 
